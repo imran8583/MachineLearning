@@ -1,0 +1,21 @@
+For this project we have tried the following 3 Models and finalized Random Forest Regressor Model as we were getting lower error values for Random Forest Regressor Model.
+
+Model 1: Linear Regression Model
+
+Scores: [4.22165674 4.47942104 4.9626517  6.3455312  5.27903604]
+Mean: 5.0576593420611875
+Standard Deviation: 0.7416074310183527
+
+
+Model 2: Decision Regression Model
+
+Scores: [5.011961   4.33058317 5.38949596 6.05611618 3.1269394 ]
+Mean: 4.783019142362119
+Standard Deviation: 0.9988296150229604
+
+
+Model 3: Random Forest Regressor Model
+
+Scores: [2.83742045 3.59195593 3.12869501 4.20402316 3.26051823]
+Mean: 3.4045225574340385
+Standard Deviation: 0.4674944623326381
